@@ -1,0 +1,29 @@
+[33mcommit 213c1aa02bedc029087f4b5dbae7e5703c34e658[m[33m ([m[1;36mHEAD -> [m[1;32mtitulo[m[33m)[m
+Author: Martin Donsella <uncorreoparamartin@gmail.com>
+Date:   Thu Jun 16 01:33:35 2022 -0300
+
+    modificando el titulo
+
+[33mcommit 1687a95d2b8372dd17aba7a9e5dd37c69e7efc80[m[33m ([m[1;31mservidorlocal/master[m[33m, [m[1;31morigin/master[m[33m, [m[1;32mmaster[m[33m)[m
+Author: martin <uncorreoparamartin@gmail.com>
+Date:   Sun May 22 18:44:40 2022 -0300
+
+    Renombrando curso de integracion continua
+
+[33mcommit c949d792632f91312b39ec92f2acd55919e161d9[m
+Author: Martin Donsella <uncorreoparamartin@gmail.com>
+Date:   Fri May 20 22:46:56 2022 -0300
+
+    Agregando gitignore
+
+[33mcommit d826762dd57b8901a7f1514c1f961052c7880c2f[m
+Author: martin <uncorreoparamartin@gmail.com>
+Date:   Tue May 17 00:47:10 2022 -0300
+
+    Arreglado acento en el curso de integración continua
+
+[33mcommit 339fb8c56a5041db0814a24bfb98faca41ab6029[m
+Author: martin <uncorreoparamartin@gmail.com>
+Date:   Tue May 17 00:42:01 2022 -0300
+
+    Creando archivo index.html con lista de cursos
